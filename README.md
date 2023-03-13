@@ -1,0 +1,2 @@
+# Machine-learning-based-prediction-of-COVID-19-diagnosis-based-on-symptoms
+We have to built prediction models that assess the likelihood of infection by combining a number of parameters. The current dataset contains around 2,78,848 individuals who have gone through the RT-PCR test. Data set contains 11 columns, including 8 features suspected to play an important role in the prediction of COVID19 outcome. . 
